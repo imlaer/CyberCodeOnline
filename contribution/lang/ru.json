@@ -1997,7 +1997,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и содержаит ошибки. Дополнить его можно на нашей странице GitHub",
+ 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и может содержать ошибки. Дополнить его можно на нашей странице GitHub",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
@@ -3274,7 +3274,7 @@
  	 	},
  	 	"tipsBox": {
  	 	 	"title": {
- 	 	 	 	"trans": "Советы Профи",
+ 	 	 	 	"trans": "Советы",
  	 	 	 	"eng": "Pro Tips"
  	 	 	},
  	 	 	"description": {
@@ -5184,35 +5184,35 @@
  	},
  	"donationType": {
  	 	"donation1": {
- 	 	 	"trans": "Член",
+ 	 	 	"trans": "Member",
  	 	 	"eng": "Member"
  	 	},
  	 	"donation2": {
- 	 	 	"trans": "Донатор",
+ 	 	 	"trans": "Donator",
  	 	 	"eng": "Donator"
  	 	},
  	 	"donation3": {
- 	 	 	"trans": "Элиты",
+ 	 	 	"trans": "Elite",
  	 	 	"eng": "Elite"
  	 	},
  	 	"donation4": {
- 	 	 	"trans": "Легендарный",
+ 	 	 	"trans": "Legendary",
  	 	 	"eng": "Legendary"
  	 	},
  	 	"donation5": {
- 	 	 	"trans": "Кибернетический картофель",
+ 	 	 	"trans": "Cybernetic Potato",
  	 	 	"eng": "Cybernetic Potato"
  	 	},
  	 	"donation6": {
- 	 	 	"trans": "Престиж",
+ 	 	 	"trans": "Prestige",
  	 	 	"eng": "Prestige"
  	 	},
  	 	"moderator": {
- 	 	 	"trans": "Модератор",
+ 	 	 	"trans": "Moderator",
  	 	 	"eng": "Moderator"
  	 	},
  	 	"admin": {
- 	 	 	"trans": "Админ",
+ 	 	 	"trans": "Admin",
  	 	 	"eng": "Admin"
  	 	}
  	}
